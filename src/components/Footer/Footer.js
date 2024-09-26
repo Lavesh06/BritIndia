@@ -24,27 +24,27 @@ function Footer() {
                 <Link to="/start-your-project">Contact</Link>
                 <Link to="/privacy-policy">Privacy & Policy</Link>
               </div>
-              <div className="emaillink">hello@britindia.com</div>
+              <div className="emaillink">hello@thebritindia.co.uk</div>
             </div>
             <div className="bottom">
               <div>
                 <a href="">Services</a>
               </div>
               <div className="socials">
-                <Link to="https://www.facebook.com/nexgenelit">
+                <Link to="">
                   <FaFacebookF />
                 </Link>
-                <Link to="https://www.instagram.com/nexgenelit/">
+                <Link to="">
                   <FaInstagram />
                 </Link>
-                <Link to="https://www.linkedin.com/company/nexgen-elit">
+                <Link to="">
                   <FaLinkedin />
                 </Link>
-                <Link to="mailTo:hello@nexgenelit.com">
+                <Link to="mailTo:hello@thebritindia.co.uk">
                   <IoIosMail />
                 </Link>
               </div>
-              <div className="copyright">© 2088 BritIndia</div>
+              <div className="copyright">© 2088 TheBritIndia</div>
             </div>
           </div>
         </div>

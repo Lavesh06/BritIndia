@@ -123,10 +123,10 @@ function StartYourProjectForm() {
         <div className="right-side">
           <span>New Business</span>
           <div className="number">
-            <h6>+91 72196 60800</h6>
+            <h6>+44 7470994018</h6>
           </div>
           <div className="email">
-            <h6>hello@britindia.com</h6>
+            <h6>hello@thebritindia.co.uk</h6>
           </div>
           <div className="question">
             <p>Have a quick question you need answering?</p>

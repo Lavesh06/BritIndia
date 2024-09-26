@@ -217,48 +217,23 @@ function HorizontalMail() {
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
-          <div>
-            <img src="/images/logo-1.png" width={200} alt="alt-image" />
-          </div>
-        </div>
-        <div className="mailHeading">
-          <div>
-            <img src="/images/logo-1.png" width={200} alt="alt-image" />
-          </div>
-          <h1>hello@BritIndia.com</h1>
-          <div>
-            <img src="/images/logo-1.png" width={200} alt="alt-image" />
-          </div>
-          <h1>hello@BritIndia.com</h1>
-          <div>
-            <img src="/images/logo-1.png" width={200} alt="alt-image" />
-          </div>
-          <h1>hello@BritIndia.com</h1>
-          <div>
-            <img src="/images/logo-1.png" width={200} alt="alt-image" />
-          </div>
-          <h1>hello@BritIndia.com</h1>
-          <div>
-            <img src="/images/logo-1.png" width={200} alt="alt-image" />
-          </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
@@ -267,23 +242,48 @@ function HorizontalMail() {
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
-          <h1>hello@BritIndia.com</h1>
+          <h1>hello@thebritindia.co.uk</h1>
+          <div>
+            <img src="/images/logo-1.png" width={200} alt="alt-image" />
+          </div>
+        </div>
+        <div className="mailHeading">
+          <div>
+            <img src="/images/logo-1.png" width={200} alt="alt-image" />
+          </div>
+          <h1>hello@thebritindia.co.uk</h1>
+          <div>
+            <img src="/images/logo-1.png" width={200} alt="alt-image" />
+          </div>
+          <h1>hello@thebritindia.co.uk</h1>
+          <div>
+            <img src="/images/logo-1.png" width={200} alt="alt-image" />
+          </div>
+          <h1>hello@thebritindia.co.uk</h1>
+          <div>
+            <img src="/images/logo-1.png" width={200} alt="alt-image" />
+          </div>
+          <h1>hello@thebritindia.co.uk</h1>
+          <div>
+            <img src="/images/logo-1.png" width={200} alt="alt-image" />
+          </div>
+          <h1>hello@thebritindia.co.uk</h1>
           <div>
             <img src="/images/logo-1.png" width={200} alt="alt-image" />
           </div>
