@@ -102,7 +102,7 @@ function PAP() {
         <p>
           If you have any questions, concerns, or feedback regarding our Privacy
           Policy, please don't hesitate to contact us at{" "}
-          <a href="mailto:hello@nexgenelit.com">hello@nexgenelit.com</a>.
+          <a href="mailto:hello@thebritindia.co.uk">hello@thebritindia.co.uk</a>.
         </p>
       </div>
       <h1>Terms and Policy</h1>
@@ -145,7 +145,7 @@ function PAP() {
         <p>
           If you have any questions, concerns, or feedback regarding our Terms
           and Policy, please don't hesitate to contact us at{" "}
-          <a href="mailto:hello@nexgenelit.com">hello@nexgenelit.com</a>.
+          <a href="mailto:hello@thebritindia.co.uk">hello@thebritindia.co.uk</a>.
         </p>
       </div>
       <div className="section">
@@ -164,7 +164,7 @@ function PAP() {
           provide you with our services and as required by applicable laws. If
           you wish to request the removal of your information from our systems,
           please contact us at{" "}
-          <a href="mailto:hello@nexgenelit.com">hello@nexgenelit.com</a>.
+          <a href="mailto:hello@thebritindia.co.uk">hello@thebritindia.co.uk</a>.
         </p>
       </div>
       <div className="section">
@@ -203,7 +203,7 @@ function PAP() {
           Thank you for entrusting BritIndia with your digital needs. Should
           you have any questions or require further clarification on these
           terms, please do not hesitate to reach out to us at{" "}
-          <a href="mailto:hello@nexgenelit.com">hello@nexgenelit.com</a>.
+          <a href="mailto:hello@thebritindia.co.uk">hello@thebritindia.co.uk</a>.
         </p>
       </div>
     </div>
